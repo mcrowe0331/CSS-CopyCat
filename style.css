@@ -1,0 +1,9 @@
+
+body{
+background: white;
+}
+.header {
+position: relative;
+z-index: 11;    
+display: flex;
+}
